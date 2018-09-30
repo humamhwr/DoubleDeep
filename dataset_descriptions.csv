@@ -1,0 +1,6 @@
+total_number_of_samples, number_of_features, overall_max, overall_min, overall_average, overall_std, regression, multiclassification, binclassification, name
+569, 30, 1.0, 0.0, 0.3306309631684028, 0.207007413356517, 0, 0, 1, breast cancer
+1599, 11, 1.0, 0.0, 0.42399152687677927, 0.29958942885547163, 1, 1, 0, wine
+579, 10, 1.0, 0.0, 0.26445319488310076, 0.30566547133697186, 0, 0, 1, pima
+303, 13, 1.0, 0.0, 0.4697909533766745, 0.35566420364328144, 0, 0, 1, heart
+90, 6, 1.0, 0.0, 0.4908356366316565, 0.2603025481491585, 0, 0, 1, cryo
